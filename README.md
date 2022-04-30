@@ -3,7 +3,9 @@
 Originally, you have type List<T> generic collection instance. Collection objects are of type Book.
     
     List<Book> books = new List<Book>()
-{
+    {
+    
+    
     new Book("The Miserable Ones", 23.85),
     new Book("East of Eden", 31.10),
     new Book("Anna Karenina", 31.45),
