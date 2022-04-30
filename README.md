@@ -54,22 +54,33 @@ Originally, you have type List<T> generic collection instance. Collection object
 };
 
 class Book
+    
 {
+    
     public Book(string name, double price)
     {
         Name = name;
+    
         Price = price;
     }
+    
     public string Name { get; set; }
+    
     public double Price { get; set; }
 }
     
     
-    1. Build a bookstore application. It is possible to choose from one to several books. 
+    
+    
+    
+ 1. Build a bookstore application. It is possible to choose from one to several books. 
 Implement two instance methods:
+    
 public List<Book> BuyABook(List<Book> thoseBooks)
+    
 public double CalcTotalPrice(List<Book> thoseBooks)
 
+    
 The previous method allows the user of your program to select from one to many books to purchase.
 With the latter method, your program will be able to calculate the total amount of purchases.
 The book is selected by entering part of the book title as a keyword. It is therefore possible that more than one book will be found for the selected keyword (see example on the next page) or nothing will be found.
