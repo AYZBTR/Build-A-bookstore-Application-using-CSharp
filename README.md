@@ -1,7 +1,8 @@
 # Build-A-bookstore-Application-using-CSharp
 
 Originally, you have type List<T> generic collection instance. Collection objects are of type Book.
-List<Book> books = new List<Book>()
+    
+    List<Book> books = new List<Book>()
 {
     new Book("The Miserable Ones", 23.85),
     new Book("East of Eden", 31.10),
@@ -40,11 +41,6 @@ List<Book> books = new List<Book>()
     new Book("For Whom the Bells Tolls", 31.25),
     new Book("Vanity Fair", 22.95),
     new Book("The Old Man and the Sea", 29.65),
- 
-
-
-
-
     new Book("The Tin Drum", 16.65),
     new Book("Les Miserables", 24.40),
     new Book("Wall Street Coyotes, part 1", 23.80),
@@ -65,10 +61,9 @@ class Book
     public string Name { get; set; }
     public double Price { get; set; }
 }
-
-
-
-1. Build a bookstore application. It is possible to choose from one to several books. 
+    
+    
+    1. Build a bookstore application. It is possible to choose from one to several books. 
 Implement two instance methods:
 public List<Book> BuyABook(List<Book> thoseBooks)
 public double CalcTotalPrice(List<Book> thoseBooks)
@@ -76,4 +71,5 @@ public double CalcTotalPrice(List<Book> thoseBooks)
 The previous method allows the user of your program to select from one to many books to purchase.
 With the latter method, your program will be able to calculate the total amount of purchases.
 The book is selected by entering part of the book title as a keyword. It is therefore possible that more than one book will be found for the selected keyword (see example on the next page) or nothing will be found.
-Feel free to choose whether you want to place instance methods in the Book class or whether you want to inherit a separate class, for example class Bookstore.
+Feel free to choose whether you want to place instance methods in the Book class or whether you want to inherit a separate class, for example class Bookstore. 
+
