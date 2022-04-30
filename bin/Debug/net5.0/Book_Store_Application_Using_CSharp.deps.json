@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Book_Store_Application_Using_CSharp/1.0.0": {
+        "runtime": {
+          "Book_Store_Application_Using_CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Book_Store_Application_Using_CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

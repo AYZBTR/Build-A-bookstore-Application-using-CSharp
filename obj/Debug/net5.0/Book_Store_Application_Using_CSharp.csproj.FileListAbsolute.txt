@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\Book_Store_Application_Using_CSharp\obj\Debug\net5.0\Book_Store_Application_Using_CSharp.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Book_Store_Application_Using_CSharp\obj\Debug\net5.0\Book_Store_Application_Using_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Book_Store_Application_Using_CSharp\obj\Debug\net5.0\Book_Store_Application_Using_CSharp.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Book_Store_Application_Using_CSharp\obj\Debug\net5.0\Book_Store_Application_Using_CSharp.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Book_Store_Application_Using_CSharp\obj\Debug\net5.0\Book_Store_Application_Using_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Book_Store_Application_Using_CSharp\bin\Debug\net5.0\Book_Store_Application_Using_CSharp.exe
+C:\Users\Acer\source\repos\Book_Store_Application_Using_CSharp\bin\Debug\net5.0\Book_Store_Application_Using_CSharp.deps.json
+C:\Users\Acer\source\repos\Book_Store_Application_Using_CSharp\bin\Debug\net5.0\Book_Store_Application_Using_CSharp.runtimeconfig.json
+C:\Users\Acer\source\repos\Book_Store_Application_Using_CSharp\bin\Debug\net5.0\Book_Store_Application_Using_CSharp.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Book_Store_Application_Using_CSharp\bin\Debug\net5.0\Book_Store_Application_Using_CSharp.dll
+C:\Users\Acer\source\repos\Book_Store_Application_Using_CSharp\bin\Debug\net5.0\ref\Book_Store_Application_Using_CSharp.dll
+C:\Users\Acer\source\repos\Book_Store_Application_Using_CSharp\bin\Debug\net5.0\Book_Store_Application_Using_CSharp.pdb
+C:\Users\Acer\source\repos\Book_Store_Application_Using_CSharp\obj\Debug\net5.0\Book_Store_Application_Using_CSharp.dll
+C:\Users\Acer\source\repos\Book_Store_Application_Using_CSharp\obj\Debug\net5.0\ref\Book_Store_Application_Using_CSharp.dll
+C:\Users\Acer\source\repos\Book_Store_Application_Using_CSharp\obj\Debug\net5.0\Book_Store_Application_Using_CSharp.pdb
+C:\Users\Acer\source\repos\Book_Store_Application_Using_CSharp\obj\Debug\net5.0\Book_Store_Application_Using_CSharp.genruntimeconfig.cache
